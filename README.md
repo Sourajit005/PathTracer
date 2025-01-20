@@ -1,4 +1,4 @@
-# Path Tracer 🛤️ 
+# 🛤️  Path Tracer 
 Path Tracer is an interactive React.js web application designed to visualize various pathfinding algorithms, including Dijkstra’s Algorithm, Breadth-First Search (BFS), and Depth-First Search (DFS).\
 The app enables users to explore the intricacies of these algorithms in an intuitive, engaging, and visual manner.
 
