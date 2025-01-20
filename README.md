@@ -19,6 +19,6 @@ The app enables users to explore the intricacies of these algorithms in an intui
 ### 4. **Performance Tracking**
 - Displays the **time elapsed** for the completion of each algorithm.
 
-## Technologies Used🛠️
+## 🛠 Technologies Used
 Frontend: React.js, HTML, CSS\
 Visualization: Custom animations for pathfinding progress
