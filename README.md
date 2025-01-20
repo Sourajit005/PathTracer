@@ -4,7 +4,7 @@ The app enables users to explore the intricacies of these algorithms in an intui
 
 ## Features 🚀
 Pathfinding Algorithms: Visualize popular algorithms such as:
--Dijkstra’s Algorithm\
+_Dijkstra’s Algorithm\
 -Breadth-First Search (BFS)\
 -Depth-First Search (DFS)\
 Interactive Node Selection:\
