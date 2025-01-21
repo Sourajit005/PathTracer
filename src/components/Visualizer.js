@@ -451,7 +451,7 @@ const Visualizer = () => {
         })}
       </div>
       <div className="name">
-        <p>- Ansuman Swain</p>
+        <p>- Sourajit Sahoo</p>
       </div>
     </div>
   );
